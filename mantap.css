@@ -1,0 +1,35 @@
+h1{
+	color: white;
+	font-family: arial,sans-serif;
+	font-variant: small-caps;
+	background-color: rgba(0,0,0,0.5);
+}
+body{
+	background-image: url(Joker-Persona-5-feature.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 150%;
+}
+p{
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 100%;
+	font-family: georgia; 
+}
+li{
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	font-weight: bold;
+	font-family: arial
+}
+img{
+	width: 100px;
+	border-radius: 100px;
+}
+div.a{
+	background-color: rgba(0,0,0,0.5);
+	font-family: georgia;
+	color: white
+}
