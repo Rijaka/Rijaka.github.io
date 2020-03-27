@@ -27,6 +27,8 @@ li{
 img{
 	width: 100px;
 	border-radius: 100px;
+	border-style: double solid;
+	border-color: blue
 }
 div.a{
 	background-color: rgba(0,0,0,0.5);
